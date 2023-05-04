@@ -1,0 +1,21 @@
+[
+  {
+  "name":"hari",
+  "yob":2001,
+  "course":"engish"
+},
+{
+  "name":"guru",
+  "yob":2002,
+ 
+  "course":"hindi"
+},
+{
+  "name":"lijith",
+  "yob":2003,
+  "course":"arabic"
+
+}
+]
+
+ 
